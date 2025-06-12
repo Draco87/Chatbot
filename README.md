@@ -13,5 +13,5 @@ This project is a conversational Question & Answer chatbot built using [Langchai
 ---
 
 ## 📽 Demo
-```html
+
 <video src="video/chatbot - Made with Clipchamp.mp4" width="100%" controls autoplay muted loop></video>
