@@ -7,6 +7,7 @@ A conversational Q&A chatbot built with [Langchain](https://www.langchain.com/) 
 ## 🎥 Demo
 
 https://github.com/user-attachments/assets/9f94898e-1c3a-4a3e-a5e4-24d7e5ebf7fa
+
 ---
 
 ## 🚀 Features
