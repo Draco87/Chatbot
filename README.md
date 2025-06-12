@@ -6,10 +6,7 @@ A conversational Q&A chatbot built with [Langchain](https://www.langchain.com/) 
 
 ## 🎥 Demo
 
-<video src="video/chatbot - Made with Clipchamp.mp4" width="100%" controls autoplay muted loop>
-  Your browser does not support the video tag.
-</video>
-https://github.com/Draco87/Chatbot/video/chatbot.mp4
+https://github.com/user-attachments/assets/9f94898e-1c3a-4a3e-a5e4-24d7e5ebf7fa
 ---
 
 ## 🚀 Features
